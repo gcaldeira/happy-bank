@@ -9,7 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\HappyBank.data\HappyBank.data.csproj" />
+    <ProjectReference Include="..\HappyBank.Data\HappyBank.Data.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,4 +1,4 @@
-namespace HappyBank.data.model
+namespace HappyBank.Data.Model
 {
     public class Operation
     {

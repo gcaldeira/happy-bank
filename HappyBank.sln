@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappyBank.data", "HappyBank.data\HappyBank.data.csproj", "{057BCFB4-DA7F-4CC6-AEEB-8B8241CFD513}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappyBank.Data", "HappyBank.Data\HappyBank.Data.csproj", "{057BCFB4-DA7F-4CC6-AEEB-8B8241CFD513}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappyBank.api", "HappyBank.api\HappyBank.api.csproj", "{3031A8B1-C811-4EAB-BD3C-A5DF7E551C4A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappyBank.Api", "HappyBank.Api\HappyBank.Api.csproj", "{3031A8B1-C811-4EAB-BD3C-A5DF7E551C4A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
